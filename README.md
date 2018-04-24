@@ -1,7 +1,5 @@
-## Step 1
+## Step 2
 
-First, I've started with the Quick Start here https://www.gatsbyjs.org/docs/
+**WIP!!!**
 
-Then I went back to the main tutorial, but starting from here https://www.gatsbyjs.org/tutorial/part-one/#linking-between-pages
-
-Surge deployment is there http://gatsby-tuto-step1.surge.sh
+TODO: Starting from here https://www.gatsbyjs.org/tutorial/part-two/
