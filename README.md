@@ -1,11 +1,5 @@
-# gatsby-tutorial
+# Gatsby tutorial
 
-This is an attempt in learning Gatsby from this tutorial https://www.gatsbyjs.org/tutorial/
+This is an attempt in learning Gatsby (static site generator for React, see here https://www.gatsbyjs.org/) from this tutorial https://www.gatsbyjs.org/tutorial/
 
-Each branch correspond to a tutorial step.
-
-## Step 1
-
-First, I've started with the Quick Start here https://www.gatsbyjs.org/docs/
-
-Then I went back to the main tutorial, but starting from here https://www.gatsbyjs.org/tutorial/part-one/#linking-between-pages
+Choose a branch according to a tutorial step.
